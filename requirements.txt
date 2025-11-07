@@ -1,0 +1,7 @@
+pyodbc
+google-cloud-bigquery
+python-pptx
+pandas
+db-dtypes
+datetime
+beautifulsoup4
