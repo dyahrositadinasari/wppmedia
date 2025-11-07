@@ -4,5 +4,5 @@ import streamlit as st
 st.title("POC Automation")
 st.write("xxx xxx xxx")
 st.logo(
-    "image/goat_logo.png", size="medium", link=None, icon_image=None
+    "image.png", size="medium", link=None, icon_image=None
 )
